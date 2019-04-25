@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class='conatiner'>
+  <view class='imgae'>
+    <image src='{{urlPic}}' mode='cover'></image>
+  </view>
+</view>
